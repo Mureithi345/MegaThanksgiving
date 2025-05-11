@@ -1,6 +1,6 @@
 // // Array of image paths
 // const images = [
-//    "01.jpg", "02.jpg"
+//    "02.jpg", "04.jpg", "05.jpg"
 // ];
 
 let currentIndex = 0; // Track the current image index
